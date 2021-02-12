@@ -1,1 +1,2 @@
 # Face_anti_spoofing
+采用FaceBagNet在CASIA_SURF数据集上进行face anti_spoofing attack detection。
